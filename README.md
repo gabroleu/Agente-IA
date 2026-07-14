@@ -138,6 +138,7 @@ Identificar empresas com oportunidades de melhoria em SEO local, presença digit
 * Integração com IA.
 * Geração automática de mensagens.
 * Relatórios de análise.
+* Download em PDF dos relatórios
 
 ### Fase 4
 
